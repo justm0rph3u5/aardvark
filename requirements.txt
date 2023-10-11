@@ -58,3 +58,4 @@ tqdm==4.40.0
 Werkzeug==0.16.0
 wrapt==1.11.2
 zipp==0.6.0
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
